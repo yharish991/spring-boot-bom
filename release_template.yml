@@ -8,10 +8,7 @@ schedule:
 components:
 - name: Hibernate / Hibernate Validator / Undertow / RESTEasy
   jira:
-    project: EAPSUP
-    key: EAPSUP-349
-    issueTypeId: 10600
-    assignee: ivassile
+    project: ENTSBT
   properties:
   - hibernate
   - hibernate-validator
