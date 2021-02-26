@@ -1,0 +1,12 @@
+project: ENTSBT
+key: ENTSBT-886
+version: 2.3.6.RELEASE
+components:
+- name: Hibernate / Hibernate Validator / Undertow / RESTEasy
+  jira:
+    project: ENTSBT
+  properties:
+  - hibernate
+  - hibernate-validator
+  - undertow
+  - resteasy
