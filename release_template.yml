@@ -1,5 +1,6 @@
 project: ENTSBT
 key: ENTSBT-886
+version: x.y.z
 schedule:
   # Release date scheduled. It will also be used to populate the description to be created for each Jira stakeholder: component or starter owner
   release: yyyy-mm-dd
