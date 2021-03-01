@@ -1,6 +1,10 @@
 project: ENTSBT
 key: ENTSBT-886
 version: 2.3.6.RELEASE
+schedule:
+  release: 2021-12-13
+  due: 2021-11-13
+  eol: 2021-11-13
 components:
 - name: Hibernate / Hibernate Validator / Undertow / RESTEasy
   jira:
